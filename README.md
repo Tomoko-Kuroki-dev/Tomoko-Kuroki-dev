@@ -20,10 +20,9 @@ Gamer y amante del anime
 - Need for Speed Most Wanted
 
 ## Redes sociales
-
-Steam: tomokokuroki3
-Discord: tomokokuroki3
-Fluxer: tomokokuroki3
-Matrix: @tomoko_kuroki3:matrix.org
-Instagram: tomoko.kuroki3
-Twitter(X): @tomoko_kuroki3
+- Steam: tomokokuroki3
+- Discord: tomokokuroki3
+- Fluxer: tomokokuroki3
+- Matrix: @tomoko_kuroki3:matrix.org
+- Instagram: tomoko.kuroki3
+- Twitter(X): @tomoko_kuroki3
