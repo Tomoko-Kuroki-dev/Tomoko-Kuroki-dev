@@ -16,7 +16,7 @@ Gamer y amante del anime
 - Zenless Zone Zero
 - Mindustry
 - Terraria
-- Osu!
+- osu!
 - Need for Speed Most Wanted
 
 ## Redes sociales
