@@ -1,7 +1,7 @@
 # Hola, soy Mokochi 👋
 
 Estudiante y entusiasta de la informática  
-Usuario de Linux  
+Usuaria de Linux  
 Aprendiendo Python  
 Gamer y amante del anime
 
@@ -14,8 +14,8 @@ Gamer y amante del anime
 
 ## Juegos favoritos
 - Zenless Zone Zero
-- War Thunder Mobile
-- Half Life 2
+- Mindustry
+- Terraria
 - Osu!
 - Need for Speed Most Wanted
 
