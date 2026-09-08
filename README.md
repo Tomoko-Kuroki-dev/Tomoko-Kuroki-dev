@@ -26,3 +26,4 @@ Gamer y amante del anime
 - Matrix: @tomoko_kuroki3:matrix.org
 - Instagram: tomoko.kuroki3
 - Twitter(X): @tomoko_kuroki3
+- osu! profile: Tomoko_kuroki3
