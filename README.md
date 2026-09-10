@@ -32,3 +32,4 @@
 - [Twitter/X](https://x.com/tomoko_kuroki3)
 - [osu! profile](https://osu.ppy.sh/users/39737196)
 - [Last.fm](https://www.last.fm/user/TomokoKuroki3 "i created this account just for this lol")
+- [MyAnimeList](https://myanimelist.net/profile/TomokoKuroki3)
